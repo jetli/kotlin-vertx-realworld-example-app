@@ -12,3 +12,4 @@ open http://0.0.0.0:8888
 ## Resources
 - https://start.vertx.io
 - https://vertx.io/docs/
+- https://github.com/eclipse-vertx/vert.x
